@@ -1,23 +1,23 @@
 [
   {
     "id": 0,
-    "title": "Webpack",
-    "description": "Webpack is a module bundler. It packs CommonJs/AMD modules i. e. for the browser. Allows to split your codebase into multiple bundles, which can be loaded on demand."
+    "title": "React Native",
+    "description": "React Native gives you a chance to assemble versatile applications utilizing just JavaScript. It utilizes an indistinguishable plan from React, giving you a chance to create a rich portable UI from decisive parts."
   },
   {
     "id": 1,
-    "title": "React",
-    "description": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes."
+    "title": "Redux",
+    "description": "Redux is an anticipated state holder for JavaScript applications. It causes you compose applications that act reliably, keep running in various situations (client, server, and native), and are anything but difficult to test."
   },
   {
     "id": 2,
-    "title": "Redux",
-    "description": "Redux is a predictable state container for JavaScript apps. It helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test."
+    "title": "React-Redux",
+    "description": "React-Redux is the official arrangement of ties between the React and Redux libraries. With this library, you can keep your perspectives and information in a state of harmony."
   },
   {
     "id": 3,
-    "title": "React-Redux",
-    "description": "React-Redux is the official set of bindings between the React and Redux libraries.  With this library you can keep your views and data in sync."
+    "title": "React",
+    "description": "React makes it easy to make intuitive UIs. Plan straightforward perspectives for each state in your application, and React will proficiently refresh and render only the correct segments when your information changes."
   },
   {
     "id": 4,
@@ -37,7 +37,7 @@
   {
     "id": 7,
     "title": "Babel",
-    "description": "Babel has support for the latest version of JavaScript through syntax transformers. These plugins allow you to use new syntax, right now without waiting for browser support."
+    "description": "Babel React makes it easy to make intuitive UIs. Plan straightforward perspectives for each state in your application, and React will proficiently refresh and render only the correct segments when your information changes."
   },
   {
     "id": 8,
